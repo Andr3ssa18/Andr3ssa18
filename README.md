@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Andressa Rosa
-
+<div style="display: inline_block">
+    <img align="right" alt="avatar" height="150" style="border-radius:180px;" src="avatar.gif">
+</div>
 - 🔭 Em busca do primeiro emprego
 - 🌱 Curso Sistemas de Informação na FSA
 - 🌱 Desenvolvo meus conhecimentos pela DIO: https://www.dio.me/users/andressarosacruz109
