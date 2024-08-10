@@ -4,10 +4,14 @@
     <img align="right" alt="avatar" height="150" style="border-radius:200px;" src="avatar.gif">
 </div>
 
+- ✨ tenho 18 anos
+- 😄 Pronomes: Ela/dela
 - 🔭 Em busca do primeiro emprego
 - 🌱 Curso Sistemas de Informação na FSA
 - 🌱 Desenvolvo meus conhecimentos pela DIO: https://www.dio.me/users/andressarosacruz109
-- 😄 Pronomes: Ela/dela
+
+
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andressarosacruz109@gmail.com)
 
 <div>
   <a href="https://github.com/Andr3ssa18">
