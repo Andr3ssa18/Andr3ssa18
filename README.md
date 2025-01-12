@@ -8,8 +8,6 @@
 - 😄 Pronomes: Ela/dela
 - 🔭 Em busca do primeiro emprego
 - 🌱 Curso Sistemas de Informação na FSA
-- 🌱 Desenvolvo meus conhecimentos pela DIO: https://www.dio.me/users/andressarosacruz109
-
 
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:andressarosacruz109@gmail.com)
 
