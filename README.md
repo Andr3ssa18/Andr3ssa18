@@ -1,4 +1,4 @@
-## Olá! Eu sou a Andressa Rosa
+# Olá! Eu sou a Andressa Rosa
 
 <div style="position: fixed; bottom: 0; left: 0;">
     <img align="right" alt="avatar" height="150" style="border-radius:200px;" src="avatar.gif">
