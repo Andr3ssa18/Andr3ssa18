@@ -4,7 +4,7 @@
     <img align="right" alt="avatar" height="150" style="border-radius:200px;" src="avatar.gif">
 </div>
 
-- ✨ tenho 18 anos
+- ✨ tenho 19 anos
 - 😄 Pronomes: Ela/dela
 - 🔭 Em busca do primeiro emprego
 - 🌱 Curso Sistemas de Informação na FSA
