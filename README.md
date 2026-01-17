@@ -5,7 +5,6 @@
 </div>
 
 - ✨ tenho 19 anos
-- 😄 Pronomes: Ela/dela
 - 🔭 Em busca do primeiro emprego
 - 🌱 Curso Sistemas de Informação na FSA
 
