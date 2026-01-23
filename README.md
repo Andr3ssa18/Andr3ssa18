@@ -4,7 +4,7 @@
     <img align="right" alt="avatar" height="150" style="border-radius:200px;" src="avatar.gif">
 </div>
 
-- ✨ tenho 19 anos
+- ✨ tenho 20 anos
 - 🔭 Em busca do primeiro emprego
 - 🌱 Curso Sistemas de Informação na FSA
 
